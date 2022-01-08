@@ -9,16 +9,7 @@
 </head>
 
 <body>
-
-    <script>
-        var inputPass=prompt('Please enter password to proceed...');
-        if(inputPass=='Ankit'){
-            <?php include 'landingPage.php'?>
-        }
-        else{
-            document.write('<center><h1>Access Denied</h1></center>');
-        }
-    </script>
+   <?php include 'landingPage.php' ?> 
 </body>
 
 </html>
