@@ -21,7 +21,7 @@
     <!-- Content1 starts -->
     <div class="container">
         <div class="row">
-            
+
             <div class="col-6">
                 <div>
                     <br><br><br>
@@ -45,6 +45,28 @@
         </div>
     </div>
     <!-- Content1 ends -->
+
+    <!-- Content 2 starts -->
+    <br><br>
+    <div class="container-fluid" style="height: 250px;background-color:#f5f5f5">
+        <br><br><br>
+        <p style="text-align: center;font-size:25px">We collaborate with 200+ leading universities and companies</p>
+        <center>
+            <img src="assets/images/iit1.webp" alt="" style="height: 50px;"> &nbsp;&nbsp;&nbsp;&nbsp;
+            <img src="assets/images/iit2.webp" alt="" style="height: 50px;">&nbsp;&nbsp;&nbsp;&nbsp;
+            <img src="assets/images/iit3.webp" alt="" style="height: 50px;">&nbsp;&nbsp;&nbsp;&nbsp;
+            <img src="assets/images/google.webp" alt="" style="height: 50px;">&nbsp;&nbsp;&nbsp;&nbsp;
+            <img src="assets/images/isb.webp" alt="" style="height: 50px;">&nbsp;&nbsp;&nbsp;&nbsp;
+            <img src="assets/images/stanford.webp" alt="" style="height: 30px;">&nbsp;&nbsp;&nbsp;&nbsp;
+            <img src="assets/images/facebook.webp" alt="" style="height: 50px;">&nbsp;&nbsp;&nbsp;&nbsp;
+            <img src="assets/images/m.webp" alt="" style="height: 50px;">&nbsp;&nbsp;&nbsp;&nbsp;
+            <img src="assets/images/aws.webp" alt="" style="height: 30px;">&nbsp;&nbsp;&nbsp;&nbsp;
+            <img src="assets/images/ibm.webp" alt="" style="height: 30px;">
+
+        </center>
+
+    </div>
+    <!-- Content2 starts -->
 
 </body>
 
