@@ -14,7 +14,7 @@
 
 
 
-    
+
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css">
 
 
@@ -45,7 +45,7 @@
             <div class="col-lg-6">
                 <br>
                 <div class="row d-flex justify-content-end">
-                    <img src="assets/images/content1Image.png" >
+                    <img src="assets/images/content1Image.png">
                 </div>
             </div>
 
@@ -194,46 +194,50 @@
 
     <!-- content 4 ends -->
     <br><br>
-    <hr>
 
-
-    <div class="container-fluid footerRoot d-flex justify-content-around" >
-        <div class="footerDiv">
-           <center>
-            <span>Follow</span>
-            <br>
-            <i class="bi bi-linkedin"  style="font-size: px;margin: 0px 5px 0px 0px ;"></i>
-                        <i class="bi bi-twitter" style="font-size: px;margin: 0px 5px 0px 5px ;"></i>
-                        <i class="bi bi-facebook"style="font-size: px;margin: 0px 5px 0px 5px ;"></i>
-                        <i class="bi bi-instagram"style="font-size: px; margin: 0px 0px 0px 5px ;"></i>
-           </center>
-        </div>
-
-        <div class="footerDiv">
-            <center>
-              <span>Write</span>
-                <br>
-                <span>support@quadrafort.com</span>
-            </center>
-        </div>
-
-        <div class="footerDiv">
-            <center>
-                <span>Call</span> <br>
-            <span>011-234563</span>
-            </center>
-        </div>
-        
-    </div>
-    <br><br>
-    <div class="container">
-        <div class="row">
-            <div class="col-4">
-                <p>Assotech Business Creterra <br>Sector 135 <br>Noida UP</p><img src="assets/images/map.jpg" alt="" height="150px">
+    <!-- footer starts -->
+    <div style="background-color:#f5f5f5 ;">
+    <br>
+        <div class="container-fluid footerRoot d-flex justify-content-around">
+            <div class="footerDiv">
+                <center>
+                    <span>Follow</span>
+                    <br>
+                    <i class="bi bi-linkedin" style="font-size: px;margin: 0px 5px 0px 0px ;"></i>
+                    <i class="bi bi-twitter" style="font-size: px;margin: 0px 5px 0px 5px ;"></i>
+                    <i class="bi bi-facebook" style="font-size: px;margin: 0px 5px 0px 5px ;"></i>
+                    <i class="bi bi-instagram" style="font-size: px; margin: 0px 0px 0px 5px ;"></i>
+                </center>
             </div>
-            <div class="col-4"></div>
+
+            <div class="footerDiv">
+                <center>
+                    <span>Write</span>
+                    <br>
+                    <span>support@quadrafort.com</span>
+                </center>
+            </div>
+
+            <div class="footerDiv">
+                <center>
+                    <span>Call</span> <br>
+                    <span>011-234563</span>
+                </center>
+            </div>
+
+        </div>
+        <br><br>
+        <div class="container">
+            <div class="row">
+                <div class="col-4">
+                    <p>Assotech Business Creterra <br>Sector 135 <br>Noida UP</p><img src="assets/images/map.jpg" alt="" height="150px">
+                </div>
+                <div class="col-4"></div>
+            </div>
         </div>
     </div>
+
+    <!-- footer ends -->
 
 
     <!-- Bot section starts -->
@@ -273,7 +277,7 @@
     </script>
 
 
-<!-- messaging -->
+    <!-- messaging -->
 
     <script>
         function initFreshChat() {
