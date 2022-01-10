@@ -15,7 +15,7 @@
 
 
 
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css">
+    
 
 
 </head>
@@ -36,7 +36,7 @@
                     <p>Open your door to more with world-class Professional Certificates and degrees.</p>
                     <br><br>
                     <button class="btn btn-success" style="height: 50px;">Join for free</button>
-                    <button class="btn btn-success" style="height: 50px;">Try Stucher for Bussiness</button>
+                    <button class="btn btn-success" style="height: 50px;">Try Quadrafort for Bussiness</button>
                 </div>
             </div>
 
