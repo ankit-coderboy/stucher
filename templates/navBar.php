@@ -1,6 +1,6 @@
 <!-- Navigation bar start -->
-<nav>
-    <div class="logo">Stucher</div>
+<nav class="mt-1">
+    <div class="logo">Quadrafort</div>
     <input type="checkbox" id="click">
     <label for="click" class="menu-btn">
         <i class="fas fa-bars"></i>

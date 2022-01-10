@@ -10,6 +10,17 @@
 
 <body>
    <?php include 'landingPage.php' ?> 
+
+
+
+
+   <!-- <script>
+       var pass='CODERBOY';
+       var a=prompt('Please use password to proceed');
+       if(a==pass){
+        window.location.href = "landingPage.php";
+       }
+   </script> -->
 </body>
 
 </html>
